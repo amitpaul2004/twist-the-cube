@@ -2,7 +2,8 @@
 The Cube is a fully interactive 3D Rubik’s Cube simulator built with Three.js and WebGL. Designed for puzzle enthusiasts and speedcubers, it delivers a visually rich and customizable cube-solving experience right in the browser.
 # 🧊 The Cube
 
-> _Want to see it in action? Add a screenshot or GIF of the UI here!_
+![image](https://github.com/user-attachments/assets/b9f3f14b-7f10-46cd-b132-9358cfdb7284)
+
 
 **The Cube** is a fully interactive 3D Rubik’s Cube simulator built with **Three.js** and **WebGL**. Designed for puzzle lovers and speedcubers, it delivers a smooth, customizable cube-solving experience directly in your browser.
 
@@ -51,4 +52,5 @@ The Cube is a fully interactive 3D Rubik’s Cube simulator built with Three.js 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/the-cube.git
+   git clone https://github.com/amitpaul2004/twist-the-cube.git
+
